@@ -1,10 +1,7 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
 gus:
-	first_name: "Gus"
-	last_name: "Jianas
-	email: "gjianas@gmail.com"
-	profile_name: "gjianas"
-	password: "mulax028"
-	password_confirmation: "mulax028"
-
+  first_name: "Gus"
+  last_name: "Jianas"
+  email: "gjianas@gmail.com"
+  profile_name: "gjianas"
+  password: "mulax028"
+  password_confirmation: "mulax028"
